@@ -1,0 +1,7 @@
+source 04_imputation_function.sh
+
+impute	21	9411243	14411243	&
+impute	21	14411244	19411244	&
+impute	21	19411245	24411245	&
+impute	21	24411246	29411246	
+
